@@ -1,5 +1,6 @@
 {
     "name": "wow i got a bug bite you will be building football",
+    "version": "0.1.0",
     "description": "",
     "dependencies": {
         "device": "*",
